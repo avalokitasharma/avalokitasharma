@@ -20,10 +20,45 @@ Single Sign-On service supporting OAuth2/OIDC protocols with JWT token managemen
 Highly available distributed rate limiter with pluggable algorithms (Token Bucket/Sliding Window) and storage backends (Redis/Cassandra), featuring clean architecture.
 
 ## 💡 Professional Experience
-- Implemented microservices patterns for scalable application design.
-- Worked on high-traffic API services handling millions of requests.
-- Contributed to improving system reliability and monitoring.
-- Actively participate in code reviews and technical discussions.
+
+### Twidpay
+#### Senior Software Engineer
+- Worked in the growth team of Twidpay, building processes that increase conversion through better customer and merchant engagement.
+- Developed and extended business logic in existing back-end services that improved voucher creation flow.
+- Built multiple async processes for bulk upload APIs using Redis and SQS in the legacy system
+- Integrated third party comms - Whatsapp template messages post transaction, Clevertap Notifications.
+- Scoped impact of upcoming features, sprint tasks on the legacy system.
+- Actively contributed to the arch team sessions for improving the existing system.
+
+### Apna
+#### Software Development Engineer - II
+- Worked with the chat platform team; experience with REST APIs, web-socket events, creating the client architecture, implementing features.
+- Collaborated with the product team to gather requirements, prioritise features resulting in a user-friendly and intuitive chat application.
+- Handled breaking down the features list in executable smaller coding tasks, helped with effort estimations during my stint here.
+- High ownership, reliable during a code red situation.
+- Participated in code reviews, provided feedback, and helped junior engineers improve their code quality.
+
+#### Software Development Engineer
+- Successfully built multiple web apps single-handedly in a short span demonstrating expertise in full- stack development and end to end thinking.
+- Made reusable, clean and modular codebase, which handled further feature requests / design changes gracefully later in the projects.
+- Contributed to design and product discussions.
+- Took the ownership of clearing tech debts and refactoring.
+
+### Chumbak Design Pvt. Ltd.
+#### Software Developer
+- Ensured the technical feasibility of designs, translated designs into high-quality code.
+- Built single page applications with responsive and elegant mobile/desktop web UIs.
+- Experience with Server Side Rendering,RESTful APIs.
+- Improved page-load time of existing webpages.
+- Experience with Google Analytics, Tag Manager and Search Console.
+
+### ZS
+#### Business Technology Analyst
+- Worked on multi-country sales planning and alignment management projects.
+- Created data model, developed UI for sales targeting for JavelinTM, a ZS proprietary tool suite.
+- Automated an existing process using SQL based JavelinTM tool, reducing run time from 2 days to 2 hrs.
+- Coached a new team member, conducted KT sessions.
+- Recognised as 'Subject Matter Expert' for module JavelinTM Alignment Manager System.
 
 ## 📚 Learning & Growth
 - Currently exploring: Distributed Systems Design
