@@ -13,7 +13,7 @@ Senior Software Engineer with experience in building and working on systems of s
 ### Disitributed Job Scheduler
 Job orchestration system for distributed workloads - Priority-based queue management, dead letter queue handling, job retry with exponential backoff.
 
-### SSO
+### Single Sign On
 Single Sign-On service supporting OAuth2/OIDC protocols with JWT token management and Redis session store.
 
 ### Distributed Rate Limiter
