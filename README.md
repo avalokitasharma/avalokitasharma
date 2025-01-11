@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avi
 
-Senior Software Engineer with experience in building and working on systems of scale. Passionate about distributed systems and clean architecture. Currently diving deep into system design and cloud-native technologies.
+Senior Software Engineer experienced in building and working on systems of scale. Passionate about distributed systems and clean architecture. Currently diving deep into system design and cloud-native technologies.
 
 ## 🔧 Tech Stack
 - **Languages and Frameworks**: GoLang, Gin, NodeJS, JavaScript
