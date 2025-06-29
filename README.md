@@ -4,8 +4,8 @@ Senior Software Engineer experienced in building meaningful products from ground
 
 ## Tech Stack
 - **Languages and Frameworks**: Golang, Gin, NodeJS, JavaScript
-- **Databases**: PostgreSQL, MongoDB, S3
-- **Distributed Systems**: Kafka, Redis, Cassandra, Flink
+- **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch
+- **Distributed Systems**: Kafka, Redis, Cassandra, Flink, ZooKeeper
 - **Tools & Cloud**: Docker, AWS, Git
 
 ## Featured Projects
@@ -24,22 +24,22 @@ Highly available distributed rate limiter with pluggable algorithms (Token Bucke
 ### Twidpay
 #### Senior Software Engineer
 - Worked in the growth team of Twidpay, building processes that increase conversion through better customer and merchant engagement.
-- Developed and extended business logic in existing back-end services that improved voucher creation flow.
-- Built multiple async processes for bulk upload APIs using Redis and SQS in the legacy system
-- Integrated third party comms - Whatsapp template messages post transaction, Clevertap Notifications.
+- Developed and extended business logic in existing core voucher services that improved voucher creation.
+- Built multiple async processes for bulk upload APIs using Redis and SQS for voucher reactivation. 
+- Integrated third party comms - Whatsapp template messages post transaction, Clevertap emails in the notification service.
 - Scoped impact of upcoming features, sprint tasks on the legacy system.
 - Actively contributed to the arch team sessions for improving the existing system.
 
 ### Apna
 #### Software Development Engineer - II
-- Worked with the chat platform team; experience with REST APIs, web-socket events, creating the client architecture, implementing features.
+- Worked in the chat platform team; experience with REST APIs, web-socket events, creating the client architecture, implementing features.
 - Collaborated with the product team to gather requirements, prioritise features resulting in a user-friendly and intuitive chat application.
 - Handled breaking down the features list in executable smaller coding tasks, helped with effort estimations during my stint here.
 - High ownership, reliable during a code red situation.
 - Participated in code reviews, provided feedback, and helped junior engineers improve their code quality.
 
 #### Software Development Engineer
-- Successfully built multiple web apps single-handedly in a short span demonstrating expertise in full- stack development and end to end thinking.
+- Successfully built multiple web apps single-handedly in a short span demonstrating expertise in full-stack development and end to end thinking.
 - Made reusable, clean and modular codebase, which handled further feature requests / design changes gracefully later in the projects.
 - Contributed to design and product discussions.
 - Took the ownership of clearing tech debts and refactoring.
