@@ -4,8 +4,8 @@ Senior Software Engineer experienced in building meaningful products from ground
 
 ## Tech Stack
 - **Languages and Frameworks**: Golang, Gin, NodeJS, JavaScript
-- **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch
-- **Distributed Systems**: Kafka, Redis, Cassandra, Flink, ZooKeeper
+- **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch, cassandra
+- **Distributed Systems**: Kafka, Redis, SQS, Flink, ZooKeeper
 - **Tools & Cloud**: Docker, AWS, Git
 
 ## Featured Projects
