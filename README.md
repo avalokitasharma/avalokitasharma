@@ -67,6 +67,7 @@ Highly available distributed rate limiter with pluggable algorithms (Token Bucke
 - Next up: https://github.com/avalokitasharma/Real-Time-Analytics-Dashboard
 
 ## Latest Blog Posts
+- https://medium.com/@avalokitasharma/handling-followers-at-scale-the-instagram-followers-design-that-jennifer-aniston-did-not-break-114291c4fefc
 - https://medium.com/@avalokitasharma/how-to-find-one-user-among-a-billion-8b2992e617d4
 - https://medium.com/@avalokitasharma/what-is-a-bloom-filter-and-why-do-you-even-need-one-84aa10d9b4b2
 - https://medium.com/@avalokitasharma/part-2-switch-to-http-2-0-if-you-havent-yet-420ea9ffbe5f
