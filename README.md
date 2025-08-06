@@ -24,30 +24,25 @@ Highly available distributed rate limiter with pluggable algorithms (Token Bucke
 ### Twidpay
 #### Senior Software Engineer
 - Worked in the growth team of Twidpay, building processes that increase conversion through better customer and merchant engagement.
-- Developed and extended business logic in existing core voucher service that improved voucher creation.
-- Built multiple async processes for bulk upload APIs using Redis and SQS for voucher reactivation. 
-- Refactored legacy code to a new notification service with pluggable modules - Whatsapp template messages post transaction, Clevertap emails.
+- Developed and extended business logic involving complex and interdependent backend services  for core rewards, merchants, issuer.
+
 
 ### Apna
 #### Software Development Engineer - II
 - Worked in the chat platform team; experience with REST APIs, web-socket integration, creating the client architecture, implementing features.
 - Collaborated with the product team to gather requirements, prioritise features resulting in a user-friendly and intuitive chat application.
-- Handled breaking down the features list in executable smaller coding tasks, helped with effort estimations.
-- High ownership, reliable during a code red situation.
-- Participated in code reviews, provided feedback, and helped junior engineers improve their code quality.
+
 
 #### Software Development Engineer
 - Built multiple web apps single-handedly in a short span demonstrating expertise in full-stack development and end to end thinking.
 - Made reusable, clean and modular codebase, which handled further feature requests / design changes gracefully later in the projects.
-- Contributed to design and product discussions.
-- Took the ownership of clearing tech debts and refactoring.
+
 
 ### Chumbak Design Pvt. Ltd.
 #### Software Developer
-- Ensured the technical feasibility of designs, translated designs into high-quality code.
 - Built single page applications with responsive and elegant mobile/desktop web UIs.
 - Experience with Server Side Rendering,RESTful APIs, improved page-load time of existing webpages.
-- Integrated Google Analytics, Tag Manager and Search Console.
+
 
 ### ZS
 #### Business Technology Analyst
@@ -57,7 +52,7 @@ Highly available distributed rate limiter with pluggable algorithms (Token Bucke
 
 ## Learning & Growth
 - Currently exploring: Distributed Systems Design
-- Building projects with: Go, Kafka, Docker Swarm
+- Building projects with: Go, Kafka, Dynamo, Flink, Docker Swarm
 - Reading: Designing Data-Intensive Applications
 - Next up: https://github.com/avalokitasharma/Real-Time-Analytics-Dashboard
 
