@@ -4,7 +4,7 @@ Senior Software Engineer experienced in building meaningful products from ground
 
 ## Tech Stack
 - **Languages and Frameworks**: Golang, Gin, NodeJS, JavaScript
-- **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch, cassandra
+- **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch, Cassandra
 - **Distributed Systems**: Kafka, Redis, SQS, Flink, ZooKeeper
 - **Tools & Cloud**: Docker, AWS, Git
 
@@ -18,37 +18,6 @@ Single Sign-On service supporting OAuth2/OIDC protocols with JWT token managemen
 
 ### Distributed Rate Limiter
 Highly available distributed rate limiter with pluggable algorithms (Token Bucket/Sliding Window) and storage backends (Redis/Cassandra), featuring clean architecture.
-
-## Professional Experience
-
-### Twidpay
-#### Senior Software Engineer
-- Worked in the growth team of Twidpay, building processes that increase conversion through better customer and merchant engagement.
-- Developed and extended business logic involving complex and interdependent backend services  for core rewards, merchants, issuer.
-
-
-### Apna
-#### Software Development Engineer - II
-- Worked in the chat platform team; experience with REST APIs, web-socket integration, creating the client architecture, implementing features.
-- Collaborated with the product team to gather requirements, prioritise features resulting in a user-friendly and intuitive chat application.
-
-
-#### Software Development Engineer
-- Built multiple web apps single-handedly in a short span demonstrating expertise in full-stack development and end to end thinking.
-- Made reusable, clean and modular codebase, which handled further feature requests / design changes gracefully later in the projects.
-
-
-### Chumbak Design Pvt. Ltd.
-#### Software Developer
-- Built single page applications with responsive and elegant mobile/desktop web UIs.
-- Experience with Server Side Rendering,RESTful APIs, improved page-load time of existing webpages.
-
-
-### ZS
-#### Business Technology Analyst
-- Worked on multi-country sales planning and alignment management projects.
-- Created data model, developed UI for sales targeting for JavelinTM, a ZS proprietary tool suite.
-- Automated an existing process using SQL based JavelinTM tool, reducing run time from 2 days to 2 hrs.
 
 ## Learning & Growth
 - Currently exploring: Distributed Systems Design
