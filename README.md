@@ -3,7 +3,7 @@
 Senior Software Engineer experienced in building meaningful products from ground up and working on systems of scale. Passionate about distributed systems and clean architecture. Currently diving deep into system design and cloud-native technologies.
 
 ## Tech Stack
-- **Languages and Frameworks**: Golang, Gin, NodeJS, JavaScript
+- **Languages and Frameworks**: Golang, Gin, NodeJS, JavaScript, TypeScript
 - **Databases**: PostgreSQL, MySQL, DynamoDB, S3, ElasticSearch, Cassandra
 - **Distributed Systems**: Kafka, Redis, SQS, Flink, ZooKeeper
 - **Tools & Cloud**: Docker, AWS, Git
@@ -20,12 +20,6 @@ Traefik/AWS API Gateway, and OpenTelemetry tracing, featuring real SO mechanics 
 ### Top-k Youtube Videos
 High-performance, horizontally scalable real-time Top-K video ranking system (YouTube scale) built in Go: ingests 5M+ events/sec via Kafka, maintains exact
 top-K across multiple windows using sharded Redis Sorted Sets, with sub-50ms query latency.
-
-## Learning & Growth
-- Currently exploring: Distributed Systems Design
-- Building projects with: Go, Kafka, Dynamo, Flink, Docker Swarm
-- Reading: Designing Data-Intensive Applications
-- Next up: https://github.com/avalokitasharma/Real-Time-Analytics-Dashboard
 
 ## Latest Blog Posts
 - https://medium.com/@avalokitasharma/handling-followers-at-scale-the-instagram-followers-design-that-jennifer-aniston-did-not-break-114291c4fefc
