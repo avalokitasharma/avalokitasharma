@@ -13,11 +13,13 @@ Senior Software Engineer experienced in building meaningful products from ground
 ### Disitributed Job Scheduler
 Job orchestration system for distributed workloads - Priority-based queue management, dead letter queue handling, job retry with exponential backoff.
 
-### Single Sign On
-Single Sign-On service supporting OAuth2/OIDC protocols with JWT token management and Redis session store.
+### Stack Overflow
+Production-grade Stack Overflow clone in Go : distributed microservices with Kafka event-driven architecture, Redis caching, sharded PostgreSQL, 
+Traefik/AWS API Gateway, and OpenTelemetry tracing, featuring real SO mechanics for voting, reputation, and tags.
 
-### Distributed Rate Limiter
-Highly available distributed rate limiter with pluggable algorithms (Token Bucket/Sliding Window) and storage backends (Redis/Cassandra), featuring clean architecture.
+### Top-k Youtube Videos
+High-performance, horizontally scalable real-time Top-K video ranking system (YouTube scale) built in Go: ingests 5M+ events/sec via Kafka, maintains exact
+top-K across multiple windows using sharded Redis Sorted Sets, with sub-50ms query latency.
 
 ## Learning & Growth
 - Currently exploring: Distributed Systems Design
